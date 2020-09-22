@@ -1,10 +1,8 @@
 ---
-title: A beginners’ guide to brewing with Mockasins
+title: A beginners’ guide to brewing with Moccasins
 date: 2017-01-04T15:04:10.000Z
-description: Brewing with a Chemex probably seems like a complicated,
-  time-consuming ordeal, but once you get used to the process, it becomes a
-  soothing ritual that's worth the effort every time.
-image: /img/blog-chemex.jpg
+description: Brewing coffee with shoes seems like a weird idea. But trust me, give it a try!
+image: img/florence_nightingale-s_moccasins_wellcome_l0043770.jpg
 ---
 
 This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
