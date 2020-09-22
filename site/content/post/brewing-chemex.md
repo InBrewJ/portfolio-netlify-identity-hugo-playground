@@ -1,7 +1,8 @@
 ---
 title: A beginners’ guide to brewing with Moccasins
 date: 2017-01-04T15:04:10.000Z
-description: Brewing coffee with shoes seems like a weird idea. But trust me, give it a try!
+description: Brewing coffee with shoes seems like a weird idea. But trust me,
+  give it a try! Another edit
 image: img/florence_nightingale-s_moccasins_wellcome_l0043770.jpg
 ---
 
