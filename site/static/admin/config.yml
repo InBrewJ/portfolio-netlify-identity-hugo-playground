@@ -1,5 +1,7 @@
 backend:
   name: github
+  repo: InBrewJ/portfolio-netlify-identity-hugo-playground
+  branch: master
   commit_messages:
     create: CMS edit by {{author-name}} {{author-login}} Create {{collection}} “{{slug}}”
     update: CMS edit by {{author-name}} {{author-login}} Update {{collection}} “{{slug}}”
