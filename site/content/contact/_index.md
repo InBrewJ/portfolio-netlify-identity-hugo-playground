@@ -1,11 +1,11 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/logo.svg
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: North East London
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "Monday – Friday: 9AM – 6PM The standard rat race life"
 ---
 
 We’d love to get in touch with you and hear your ideas and
