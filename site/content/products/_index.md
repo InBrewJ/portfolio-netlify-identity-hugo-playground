@@ -1,15 +1,11 @@
 ---
 title: Software, my products are mercenary software
-heading: What we offer
+heading: What I offer
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        I can probably write software that helps out coffee businesses. But, as ever, what software is the most valuable?
     - image: /img/illustrations-coffee-gear.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -54,7 +50,8 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+    quote:
+      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
